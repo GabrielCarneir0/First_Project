@@ -1,0 +1,33 @@
+html {
+    background-color: black;
+    width: 100%;
+}
+
+body{
+    color:white;
+}
+
+
+
+
+.imagem{
+    display: block;
+    margin: 0 600px;
+    cursor: pointer;
+    align-self: center;
+    position: fixed;
+    width: 180px;
+    left: 63%;
+    bottom: 1px;
+}
+
+
+.bes{
+    cursor: pointer;
+    width: 200px;
+}
+
+
+button{
+    cursor: pointer;
+}
